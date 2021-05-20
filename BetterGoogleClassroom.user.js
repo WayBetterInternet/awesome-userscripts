@@ -3,7 +3,7 @@
 // @namespace   awesome-userscripts.github.io
 // @match       *://classroom.google.com/*
 // @grant       none
-// @version     2.3
+// @version     2.4
 // @author      era2010-coder
 // @description Userscript to make google classroom better
 // ==/UserScript==
@@ -20,7 +20,6 @@ style2.type = "text/css";
 style2.appendChild(document.createTextNode(css2));
 document.head.appendChild(style2);
 
-var bottomNav = "<style></style></head><body><div class='navbar'><a href="#home" class="active">Home</a><a href='#news'>News</a><a href='#contact'>Contact</a></div><div class='main'><h1>Bottom Navigation Bar</h1><p>Some text some text some text.</p></div></body></html>";
-var div = document.createElement("div");
-div.appendChild(document.createTextNode(bottomNav));
-document.body.appendChild(div);
+var btn = document.createElement("div");
+btn.innerHTML = "<style></style></head><body><div class='navbar'><a href="#home" class="active">Home</a><a href='#news'>News</a><a href='#contact'>Contact</a></div><div class='main'><h1>Bottom Navigation Bar</h1><p>Some text some text some text.</p></div></body></html>";
+document.body.appendChild(btn);
