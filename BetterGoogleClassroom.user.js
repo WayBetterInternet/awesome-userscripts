@@ -3,7 +3,7 @@
 // @namespace   awesome-userscripts.github.io
 // @match       *://classroom.google.com/*
 // @grant       none
-// @version     2.1
+// @version     2.2
 // @author      era2010-coder
 // @description Userscript to make google classroom better
 // ==/UserScript==
