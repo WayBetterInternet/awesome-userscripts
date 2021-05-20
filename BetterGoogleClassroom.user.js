@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        New script - google.com
+// @name        Better Google Classroom
 // @namespace   awesome-userscripts.github.io
 // @match       *://classroom.google.com/*
 // @grant       none
