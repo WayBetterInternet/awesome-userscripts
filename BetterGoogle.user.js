@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Better Google
 // @namespace   awesome-userscripts.github.io
-// @match       *://google.*
+// @match       *://google.*/*
 // @grant       none
-// @version     1.0
+// @version     0.1
 // @author      era2010-coder
 // @description 5/20/2021, 12:24:31 PM
 // ==/UserScript==
