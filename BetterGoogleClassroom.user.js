@@ -13,9 +13,3 @@ var style = document.createElement("style");
 style.type = "text/css";
 style.appendChild(document.createTextNode(css));
 document.head.appendChild(style);
-
-var css2 = "a { background: whitesmoke; }"
-var style2 = document.createElement("style");
-style2.type = "text/css";
-style2.appendChild(document.createTextNode(css2));
-document.head.appendChild(style2);
