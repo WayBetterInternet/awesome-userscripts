@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        New script - google.com
-// @namespace   Violentmonkey Scripts
+// @namespace   awesome-userscripts.github.io
 // @match       *://classroom.google.com/*
 // @grant       none
 // @version     1.0
