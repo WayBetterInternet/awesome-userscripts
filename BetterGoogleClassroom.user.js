@@ -4,8 +4,8 @@
 // @match       *://classroom.google.com/*
 // @grant       none
 // @version     1.0
-// @author      -
-// @description 5/20/2021, 10:49:50 AM
+// @author      era2010-coder
+// @description Userscript to make google classroom better
 // ==/UserScript==
 
 console.log("I detect google classroom")
