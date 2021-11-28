@@ -4,7 +4,7 @@
 // @match       *://www.google.*/*
 // @grant       none
 // @version     1.3
-// @author      era2010-coder
+// @author      snowcatridge10
 // @description 5/20/2021, 12:24:31 PM
 // ==/UserScript==
 
