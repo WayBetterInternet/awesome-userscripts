@@ -4,7 +4,7 @@
 // @match       *://classroom.google.com/*
 // @grant       none
 // @version     2.5
-// @author      era2010-coder
+// @author      snowcatridge10
 // @description Userscript to make google classroom better
 // ==/UserScript==
 
