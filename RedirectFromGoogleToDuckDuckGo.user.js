@@ -12,5 +12,5 @@
 (function() {
     'use strict';
 
-    window.location.href="http://duckduckgo.com";
+    window.location.href = "http://duckduckgo.com";
 })();
