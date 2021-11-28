@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Redirect from Google to DuckDuckGo
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Redirect from Google to DuckDuckGo
 // @author       snowcatridge10
 // @match        https://www.google.com/
